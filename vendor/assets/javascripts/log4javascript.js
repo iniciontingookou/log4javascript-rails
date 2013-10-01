@@ -1,0 +1,1 @@
+//= require log4javascript-1.4.6/log4javascript_uncompressed
